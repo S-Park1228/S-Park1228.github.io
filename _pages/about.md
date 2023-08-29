@@ -16,25 +16,25 @@ I am an incoming PhD student in Computing & Data Sciences at Boston University. 
 Education
 ------
 Boston University (Boston, MA)
-** <sub>Pursuing the PhD in Computing and Data Sciences</sub>
+* <sub>Pursuing the PhD in Computing and Data Sciences</sub>
 
 University at Buffalo (Buffalo, NY)
-** <sub>Engineering Science (Data Science) MS (2023)</sub>
+* <sub>Engineering Science (Data Science) MS (2023)</sub>
 
 Seoul National University (Seoul, Korea)
-** <sub>MA in Economics (2015)</sub>
+* <sub>MA in Economics (2015)</sub>
 *  <sub>Thesis Title: A Study on Factors Determining the Bank Risk Measured as BIS Required Capital – A Panel Analysis Using Data of Banks in Korea</sub>
-** <sub>BA in Economics (2013)</sub>
+* <sub>BA in Economics (2013)</sub>
 
 
 Work Experience
 ------
-*Economist
-** <sub>[LG Economic Research Institute](https://www.lgbr.co.kr/en/index.do) (Seoul, Korea)</sub>
-** <sub>Jan 2016 - May 2021</sub>
-** <sub>Conduct early warning on adverse events and promptly report their impact on LG businesses and corresponding solutions for the CEO.</sub>
-** <sub>Forecast interest rates, FX in domestic and overseas finantial markets.</sub>
-** <sub>Collect and analyze economic data to provide business insights for the CEO.</sub>
+Economist
+* <sub>[LG Economic Research Institute](https://www.lgbr.co.kr/en/index.do) (Seoul, Korea)</sub>
+* <sub>Jan 2016 - May 2021</sub>
+* <sub>Conduct early warning on adverse events and promptly report their impact on LG businesses and corresponding solutions for the CEO.</sub>
+* <sub>Forecast interest rates, FX in domestic and overseas finantial markets.</sub>
+* <sub>Collect and analyze economic data to provide business insights for the CEO.</sub>
 
 
 Publication
