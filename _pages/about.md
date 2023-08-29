@@ -31,9 +31,8 @@ Capital – A Panel Analysis Using Data of Banks in Korea</sub>
 Work Experience
 ------
 Economist
-* <sub>[LG Economic Research Institute](https://www.lgbr.co.kr/en/index.do)</sub>
+* <sub>[LG Economic Research Institute](https://www.lgbr.co.kr/en/index.do) (Seoul, Korea)</sub>
 * <sub>Jan 2016 - May 2021</sub>
-* <sub>Seoul, Korea</sub>
 * <sub>Conduct early warning on adverse events and promptly report their impact on LG businesses and corresponding solutions for the CEO.</sub>
 * <sub>Forecast interest rates, FX in domestic and overseas finantial markets.</sub>
 * <sub>Collect and analyze economic data to provide business insights for the CEO.</sub>
