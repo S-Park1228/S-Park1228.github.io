@@ -23,6 +23,8 @@ University at Buffalo (Buffalo, NY)
 
 Seoul National University (Seoul, Korea)
 * <sub>MA in Economics (2015)</sub>
+** <sub>Thesis Title: A Study on Factors Determining the Bank Risk Measured as BIS Required
+Capital – A Panel Analysis Using Data of Banks in Korea</sub>
 * <sub>BA in Economics (2013)</sub>
 
 
@@ -63,6 +65,21 @@ loc=R2016-0134-03-726767,list,none,1,0)
 * <sub>Interview with YTN about changes in the household asset portfolio of Korea</sub>
 * <sub>YTN (Yes! Top News), Seoul, Republic of Korea</sub>
 * <sub>Aug. 3rd, 2016</sub>
+
+
+Projects
+------
+Project Title: “Upgrading Approaches for Economic Outlook”
+* <sub>Objective: Analyze limitations of the existing economic outlook methods, search for new approaches
+to overcome those problems and apply these approaches to economic analysis</sub>
+* <sub>Roles: Apply “Text Mining” such as Topic model (“Dynamic Topic Model“) to capture emerging
+issues and construct Python codes for “Text Mining” on AWS (Amazon Web Services) EC2</sub>
+* <sub>Establish a GDP nowcasting system (“Dynamic Factor Model”) for the economic outlook of
+South Korea</sub>
+* <sub></sub>
+* <sub></sub>
+* <sub></sub>
+
 
 A data-driven personal website
 ======
