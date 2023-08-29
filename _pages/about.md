@@ -23,8 +23,7 @@ University at Buffalo (Buffalo, NY)
 
 Seoul National University (Seoul, Korea)
 ** <sub>MA in Economics (2015)</sub>
-*  <sub>Thesis Title: A Study on Factors Determining the Bank Risk Measured as BIS Required</sub>
-Capital – A Panel Analysis Using Data of Banks in Korea</sub>
+*  <sub>Thesis Title: A Study on Factors Determining the Bank Risk Measured as BIS Required Capital – A Panel Analysis Using Data of Banks in Korea</sub>
 ** <sub>BA in Economics (2013)</sub>
 
 
