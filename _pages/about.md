@@ -63,9 +63,3 @@ loc=R2016-0134-03-726767,list,none,1,0)
 * <sub>Interview with YTN about changes in the household asset portfolio of Korea</sub>
 * <sub>YTN (Yes! Top News), Seoul, Korea</sub>
 * <sub>Aug 3rd, 2016</sub>
-* <sub></sub>
-* <sub></sub>
-5.
-* <sub></sub>
-* <sub></sub>
-* <sub></sub>
