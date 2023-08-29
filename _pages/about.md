@@ -63,30 +63,6 @@ loc=R2016-0134-03-726767,list,none,1,0)
 * <sub>Interview with YTN about changes in the household asset portfolio of Korea</sub>
 * <sub>YTN (Yes! Top News), Seoul, Korea</sub>
 * <sub>Aug 3rd, 2016</sub>
-
-
-Projects
-------
-1. Project Title: “Upgrading Approaches for Economic Outlook”
-* <sub>Objective: Analyze limitations of the existing economic outlook methods, search for new approaches
-to overcome those problems and apply these approaches to economic analysis</sub>
-* <sub>Roles: Apply “Text Mining” such as Topic model (“Dynamic Topic Model“) to capture emerging
-issues and construct Python codes for “Text Mining” on AWS (Amazon Web Services) EC2</sub>
-* <sub>Establish a GDP nowcasting system (“Dynamic Factor Model”) for the economic outlook of
-South Korea</sub>
-* <sub></sub>
-* <sub></sub>
-* <sub></sub>
-2.
-* <sub></sub>
-* <sub></sub>
-* <sub></sub>
-3.
-* <sub></sub>
-* <sub></sub>
-* <sub></sub>
-4.
-* <sub></sub>
 * <sub></sub>
 * <sub></sub>
 5.
