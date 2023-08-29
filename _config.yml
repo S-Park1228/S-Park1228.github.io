@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sungjoon Park"
+  name             : #"Sungjoon Park"
   avatar           : "profile.png"
   bio              : #"Pursuing the PhD in CDS at BU"
   location         : "Boston, MA"
