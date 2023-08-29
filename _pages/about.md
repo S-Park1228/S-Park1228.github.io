@@ -8,7 +8,53 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming PhD student in Computing & Data Sciences at Boston University. My research interest lies in the intersection of Large Language Models, Generative AIs, and Interpretable Machine Learning. In particular, I am pursuing applying them to extracting economic and business insights. Currently, I am participating in several projects of [BIT LAB (Business Insights through Text LAB)](https://www.leedokyun.com/bitlab.html) established by Dr. Dokyun (DK) Lee, the associate professor at Questrom School of Business.
+About
+------
+I am an incoming PhD student in Computing & Data Sciences at Boston University. My research interest lies in the intersection of Large Language Models, Generative AIs, and Interpretable Machine Learning. In particular, I am pursuing applying them to extracting economic and business insights. Currently, I am participating in several projects of [BIT LAB (Business Insights through Text LAB)](https://www.leedokyun.com/bitlab.html) established by the associate professor Dokyun (DK) Lee at Questrom School of Business.
+
+
+Education
+------
+Boston University
+* <sub>Pursuing the PhD in Computing and Data Sciences</sub>
+
+University at Buaffao
+* <sub>Engineering Science (Data Science) MS (2023)</sub>
+
+Seoul National University
+* <sub>MA in Economics (2015)</sub>
+* <sub>BA in Economics (2013)</sub>
+
+
+Work Experience
+------
+Economist
+[LG Economic Research Institute](https://www.lgbr.co.kr/en/index.do)
+* <sub>Jan 2016 - May 2021</sub>
+* <sub>Seoul, Korea</sub>
+* <sub>Conduct early warning on adverse events and promptly report their impact on LG businesses and corresponding solutions for the CEO.</sub>
+* <sub>Forecast interest rates, FX in domestic and overseas finantial markets</sub>.
+* <sub>Collect and analyze economic data to provide business insights for the CEO</sub>.
+
+
+Publication
+------
+* <sub>Geun-Tae Lee, Sungjoon Park. (2020), The Changes in Consumption Patterns of Korean Households after the Global
+Financial Crisis, LGERI Trends & Insight</sub>
+* <sub>[Chang Seon Lee, Munbak Choe, Sungjoon Park. (2018), The Potential for Crises in Emerging Markets Economies and
+Examining Korea’s Differentiatedness from Other EM Countries, LGERI Report](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.lgbr.co.kr/uploadFiles/ko/pdf/econ/LGERI_Report_20180726_20180326130313429.pdf)</sub>
+* <sub>[Chang Seon Lee, Sungjoon Park. (2017b), The Transition of Currency Risks and Its Consequential Shifts in Korea’s FX
+Policy, LGERI Report](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.lgbr.co.kr/uploadFiles/ko/pdf/econ/LGERI_Report_20170811_20170714100745518.pdf)</sub>
+* <sub>[Chang Seon Lee, Sungjoon Park. (2017a), The Impact of Expected Raises in the Fed Rate in 2017 on Korea Not So Much
+‘Capital Outflow’ as ‘Higher Market Rates’, LGERI Brief](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.lgbr.co.kr/uploadFiles/ko/pdf/econ/LGERI_Report_20170317_20170717200722868.pdf)</sub>
+* <sub>[Sungjoon Park. (2016), The Change in Asset Portfolio of Korean Households from Real Estate to Financial Assets and
+Safe Assets, LGERI Business Insights, pp. 24-30.](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.lgbr.co.kr/uploadFiles/ko/pdf/eco/LGBI1417-24_20160803131807.pdf)</sub>
+
+
+Talks
+------
+* <sub> </sub>
+* <sub> </sub>
 
 A data-driven personal website
 ======
