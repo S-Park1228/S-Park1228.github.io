@@ -37,7 +37,7 @@ Economist
 * <sub>Collect and analyze economic data to provide business insights for the CEO.</sub>
 
 
-Publication
+Publication (Lang: Korean)
 ------
 * <sub>Geun-Tae Lee, Sungjoon Park. (2020), The Changes in Consumption Patterns of Korean Households after the Global
 Financial Crisis, LGERI Trends & Insight</sub>
@@ -51,7 +51,7 @@ Policy, LGERI Report](https://www.lgbr.co.kr/uploadFiles/ko/pdf/econ/LGERI_Repor
 Safe Assets, LGERI Business Insights, pp. 24-30.](https://www.lgbr.co.kr/uploadFiles/ko/pdf/eco/LGBI1417-24_20160803131807.pdf)</sub>
 
 
-Talks
+Talks (Lang: Korean)
 ------
 [Interview about domestic and foreign factors causing economic downturn in 2019](http://program.kbs.co.kr/1radio/radio/kmagazine/pc/board.html?smenu=906dc8&bbs_
 loc=R2016-0134-03-726767,list,none,1,0)
