@@ -30,14 +30,14 @@ Seoul National University (Seoul, Korea)
 Work Experience
 ------
 Economist
-* <sub>[LG Economic Research Institute](https://www.lgbr.co.kr/en/index.do) (Seoul, Korea)</sub>
+* <sub>[LG Economic Research Institute (LG Business Research)](https://www.lgbr.co.kr/en/index.do) (Seoul, Korea)</sub>
 * <sub>Jan 2016 - May 2021</sub>
 * <sub>Conduct early warning on adverse events and promptly report their impact on LG businesses and corresponding solutions for the CEO.</sub>
 * <sub>Forecast interest rates, FX in domestic and overseas finantial markets.</sub>
 * <sub>Collect and analyze economic data to provide business insights for the CEO.</sub>
 
 
-Publication (Lang: Korean)
+Research Reports (Lang: Korean)
 ------
 * <sub>Geun-Tae Lee, Sungjoon Park. (2020), The Changes in Consumption Patterns of Korean Households after the Global
 Financial Crisis, LGERI Trends & Insight</sub>
