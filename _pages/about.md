@@ -16,7 +16,7 @@ I am an incoming student of Computing & Data Sciences PhD program at Boston Univ
 Education
 ------
 Boston University (Boston, MA)
-* <sub>Pursuing the PhD in Computing and Data Sciences</sub>
+* <sub>Pursuing the PhD in Computing & Data Sciences</sub>
 
 University at Buffalo (Buffalo, NY)
 * <sub>Engineering Science (Data Science) MS (2023)</sub>
