@@ -10,8 +10,7 @@ redirect_from:
 
 About
 ------
-I am a PhD student in Computing & Data Sciences program at Boston University. My research interest lies in the intersection of Large Language Models, Generative AIs, and Interpretable Machine Learning. In particular, I am pursuing research projects applying them to extracting economic and business insights. Currently, I am participating in projects of [BIT LAB (Business Insights through Text LAB)](https://www.leedokyun.com/bitlab.html) established by the associate professor Dokyun (DK) Lee at Questrom School of Business.
-
+I am a PhD student in Computing & Data Sciences program at Boston University. My research interest is applications of machine learning. I am exploring the domain area to apply machine learning methodologies.
 
 Education
 ------
